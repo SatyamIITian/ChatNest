@@ -15,7 +15,7 @@ Follow these instructions to set up and run ChatNest on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/piyushkdas0611/chatnest.git
+   git clone https://github.com/SatyamIITian/ChatNest.git
    ```
 
 2. Change to the project directory:
